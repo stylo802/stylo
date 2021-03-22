@@ -11,13 +11,13 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 
 INFO BOT! :
 🔱 *AUTHOR*: Stylo Pratama
-🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
-🔱 *INSTAGRAM*: ${instagram}
-🔱 *YOUTUBE*: ${youtube}
-🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *GITHUB*: https://github.com/stylo802/Stylo-Tyo
+🔱 *INSTAGRAM*: ${-}
+🔱 *YOUTUBE*: ${-}
+🔱 *TELEGRAM* : ${-}
+🔱 *WHATSAPP* : +6281217452385
 
-🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
+🔱 *SCRIPT ORIGINAL BY*: https://github.com/stylo802/Stylo-Tyo
 
 INFO LAIN! :
 
@@ -33,7 +33,7 @@ THANKS TO:
 
 bot aktif selama : ${kapanbotaktif}
 JANGAN LUPA FOLLOW instagram
- ${instagram}
+ ${-}
 
- 👾TELEGRAM : ${telegram}`
+ 👾TELEGRAM : ${-}`
 }

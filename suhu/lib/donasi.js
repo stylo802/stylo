@@ -14,19 +14,19 @@ TELAH MEMBUKA MENU DONASI
 
 KALIAN BISA DONASI MENGGUNAKAN
    
-🛡 *PULSA*: 081271699856
-🛡 *OVO*: 081271699856
-🛡 *DANA* : 081271699866
-🛡 *GOPAY* : 081271699856
+🛡 *PULSA*: +6281217452385
+🛡 *OVO*: +6281217452385
+🛡 *DANA* : +6281217452385
+🛡 *GOPAY* : +6281217452385
 
-📺*IKLAN* *YOUTUBE REUZ*
+📺*IKLAN* *Stylo Pratama*
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
-${instagram}
+${-}
 
-👾TELEGRAM : ${telegram}
+👾TELEGRAM : ${-}
 
 `
 }

@@ -10,7 +10,7 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
+🔱 *AUTHOR*: Stylo Pratama
 🔱 *GITHUB*: https://github.com/benisadewa/reuzsc
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
